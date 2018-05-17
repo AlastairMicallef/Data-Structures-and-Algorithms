@@ -1,0 +1,10 @@
+Abstarct Data
+Data Structure (Concrete - A Class)
+1. Hold Data
+2.Provide Access to that Data tp Insert/Sort/Search/ect
+
+Different Data structured do this in different ways
+
+Abstarct Data Type(Abstarct - interface)
+1. Idea/Concept/Model of how a data structer should behave
+2. Holds no dasta and no code implemation. it only define how a DS should Access and manupulate data i.e method signature 
